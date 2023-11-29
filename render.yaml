@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: mathematictuition
+    name: mathematic-tuition
     region: oregon
     plan: free
     runtime: node
