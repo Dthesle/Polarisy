@@ -1,7 +1,7 @@
 {
     "name": "polaris",
     "version": "1.0.0",
-    "description": "The future of school gaming.",
+    "description": "The future of mathematic school help.",
     "main": "index.js",
     "type": "module",
     "scripts": {
